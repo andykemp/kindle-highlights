@@ -15,8 +15,8 @@ module KindleHighlights
     def initialize(asin:, text:, note:, page:, location:)
       @asin = asin
       @text = text
-	  @note = note
-	  @page = page
+      @note = note
+      @page = page
       @location = location
     end
 
